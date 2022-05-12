@@ -21,10 +21,10 @@ public struct MockData{
     
     public static func loadMockAdmin(){
         
-        let object1=Admin(name: "root", password: "rootpass", mailId: "root@zohocorp.com", phoneNumber: "6543678923")
+        let object1=Admin(name: "root", password: "rootpass", mailId: "root@admin.com", phoneNumber: "6543678923")
         DataManager.addAdmin(admin: object1)
         
-        let object2=Admin(name: "Praveen", password: "helloworld", mailId: "praveen@zohocorp.com", phoneNumber: "6543654323")
+        let object2=Admin(name: "Praveen", password: "helloworld", mailId: "praveen@admin.com", phoneNumber: "6543654323")
         DataManager.addAdmin(admin: object2)
         
     }
