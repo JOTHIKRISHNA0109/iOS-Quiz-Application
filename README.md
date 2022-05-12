@@ -1,3 +1,3 @@
 # iOS-Quiz-Application
 
-Hello swift
+A Quiz Console Application on iOS built using Swift programming language and OOPS concepts.
